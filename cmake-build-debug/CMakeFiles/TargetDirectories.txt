@@ -1,0 +1,9 @@
+/Users/solangekarsenty/Downloads/OOP-ex4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/solangekarsenty/Downloads/OOP-ex4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/solangekarsenty/Downloads/OOP-ex4/cmake-build-debug/CMakeFiles/OOP-ex4.dir
+/Users/solangekarsenty/Downloads/OOP-ex4/cmake-build-debug/include/CMakeFiles/rebuild_cache.dir
+/Users/solangekarsenty/Downloads/OOP-ex4/cmake-build-debug/include/CMakeFiles/edit_cache.dir
+/Users/solangekarsenty/Downloads/OOP-ex4/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/Users/solangekarsenty/Downloads/OOP-ex4/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/Users/solangekarsenty/Downloads/OOP-ex4/cmake-build-debug/images/CMakeFiles/rebuild_cache.dir
+/Users/solangekarsenty/Downloads/OOP-ex4/cmake-build-debug/images/CMakeFiles/edit_cache.dir
